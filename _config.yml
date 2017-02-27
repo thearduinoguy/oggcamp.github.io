@@ -1,1 +1,28 @@
-name: OggCamp - A Free Culture Conference
+# Site specific settings
+title: "OggCamp 17"
+name: "OggCamp 17 - A Free Culture Conference"
+keywords: "Free Culture, OggCamp, Open Source, Free Software, Creative Commons, Unconference, United Kingdom, UK, England, Great Britain"
+baseurl: ""
+url: "https://oggcamp.github.io"
+description: "OggCamp 17"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+lang_alternate: ""
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+twitter: oggcamp
+facebook: oggcamp
+github: oggcamp
+google: 114120215314425775951
+telegram: decafbaddecafbad
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/

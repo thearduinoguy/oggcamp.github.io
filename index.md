@@ -1,14 +1,15 @@
 ---
 layout: default
-title: OggCamp 2016, OggCamp 2017 and other events 
+title: OggCamp 17 
 ---
-Further to our recent notice, we confirm that OggCamp will not occur in 2016 but we have a combined team of new and old organisers who are working towards OggCamp 2017.
+## SAT AUG 19th - SUN AUG 20th 2017 - CANTERBURY, UK
 
-If you are looking for a similar event for 2016 you might enjoy one of the following events (in no particular order):
+[Tickets for this year's event are now available. Get them here!](/tickets)
 
-* FOSS Talk Live
-* Wuthering Bytes
-* Barcamp Manchester
+Follow us on [Twitter](https://twitter.com/OggCamp), 
+[Facebook](https://www.facebook.com/OggCamp) or [Google+](https://plus.google.com/114120215314425775951) and we'll update you with any important news.
 
-We look forward to seeing you, either at one of these events, or at OggCamp ’17
+OggCamp is a Free Culture Unconference. You can find out what happens at an OggCamp by watching the video below:
+
+<iframe src="https://www.youtube.com/embed/K15PIGuiLKw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

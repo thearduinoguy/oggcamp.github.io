@@ -1,17 +1,13 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="{{ site.github.url }}/css/main.css">
-		</head>
-		<body>
-			<nav>
-			{% include nav.md %}
-			</nav>
+<html lang="{{ site.lang }}">
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		{% include nav.html %}
+		<main>
 			<h1>{{ page.title }}</h1>
-			<div class="container">
 			{{ content }}
-			</div><!-- /.container -->
-		</body>
-	</html>
+		</main>
+		{% include footer.html %}
+	</body>
+</html>
