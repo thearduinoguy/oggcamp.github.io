@@ -4,6 +4,10 @@ title: OggCamp 17
 ---
 ## SAT AUG 19th - SUN AUG 20th 2017 - CANTERBURY, UK
 
+![OggCamp 2011 Geeknic - Photo by Miia Sample - CC-BY-SA]({{ site.url }}/files/geeknic-1.jpg)
+
+*OggCamp 2011 Geeknic - Photo by Miaa Sample - CC-BY-SA*
+
 [Tickets for this year's event are now available. Get them here!](/tickets)
 
 Follow us on [Twitter](https://twitter.com/OggCamp), 
