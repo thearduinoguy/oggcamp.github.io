@@ -1,21 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
 
 html {
-	background-image: url("../img/background.gif");
+	background-color: rgb(32,32,32);
 }
 
 body {
 	background-color: rgba(0,0,0,0.97);
 	color: rgba(255,255,255,0.7);
-	padding: 5px;
 	margin: auto;
 	width: 80%;
-	border: 1px dashed rgba(255,255,255,0.7);
 	font-family: "Open Sans";
+	padding-bottom: 15px;
 }
 
 header, nav, main, footer {
 	margin: 15px;
+	padding-bottom: 15px;
 	border-bottom: 1px dashed rgba(255,255,255,0.5);
 }
 
@@ -91,7 +92,6 @@ pre {
 img, main iframe {
 	width: 80%;
 	margin-left: 10%;
-	border: 1px dashed rgba(255,255,255,0.5);
 }
 
 main header {
@@ -99,3 +99,15 @@ main header {
 	padding-bottom: 15px;
 	border: 0;
 }
+
+#headerimg {
+	width: 100%;
+	margin-left: 0;
+	border: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Black Ops One', cursive;
+    font-weight: 400;
+}
+
