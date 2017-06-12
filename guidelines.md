@@ -10,7 +10,7 @@ Don't be shy! Talks at OggCamp can be about anything. This includes open source 
 
 To submit your talk find the schedule board which the crew will direct you to if needed.  Write your talk on a post-it note and put it on your preferred time slot.  Depending on the number of votes the talks in that slot get, your talk may me moved to a different room, so check back 15 minutes before your talk to see where it will be.  We will also have a version of the schedule online as it's decided so you can check on instantly on your phone, laptop or tablet.
 
-If there are too many talks for a given time slot those with the least votes won't be assigned a room. You can move your talk to a different time slot though if you wish.
+If there are too many talks for a given time slot those with the fewest votes won't be assigned a room. You can move your talk to a different time slot though if you wish.
 
 ## Attending a Talk
 
