@@ -2,7 +2,7 @@
 layout: default
 title: OggCamp 17 
 ---
-## SAT AUG 19th - SUN AUG 20th 2017 - CANTERBURY, UK
+<h2 style="text-align: center;">SAT AUG 19th - SUN AUG 20th 2017 - CANTERBURY, UK</h2>
 
 ![OggCamp 2011 Geeknic - Photo by Miia Sample - CC-BY-SA]({{ site.url }}/files/geeknic-1.jpg)
 
