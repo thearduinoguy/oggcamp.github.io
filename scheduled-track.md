@@ -17,9 +17,19 @@ Ian Hutchinson is a developer at IF, a design studio that works with teams to bu
 ---
 Saturday, Slots 3 and 4
 
-# Talk Title to be confirmed
+# The openSUSE Project - Contributing, Offerings, Governance and Organisation
 ## Richard Brown from SUSE
 ![Richard Brown from SUSE]({{ site.url }}/assets/img/speakers/RichardBrownHeadshot.jpg)
+
+openSUSE is a diverse open source project that is home to many different software offerings,
+including the record-setting Tumbleweed rolling-release distribution, the ground-breaking Leap
+enterprise/community hybrid distribution and the revolutionary Open Build Service and openQA software
+build/test tools.
+
+This talk will detail the offerings of the openSUSE Project, discuss how the project is organised & governed,
+and how people can contribute to the openSUSE Project. Examples will be given of both general community
+contributions and SUSE's contributions to the openSUSE Project as a key part of SUSE's Open Source business
+model.
 
 Richard Brown is from England but currently lives in Nuremberg in Germany, and is employed as a QA Engineer by
 SUSE, as well as Chairman of the openSUSE Project. Involved in openSUSE/SUSE since 2003, Richard has
